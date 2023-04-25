@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+To run stock-sim, run "python3 stock_sim.py" in the current directory in terminal
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Joshua Kim Apr 25 2023
